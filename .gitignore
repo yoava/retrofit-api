@@ -1,0 +1,29 @@
+# Eclipse ############
+######################
+.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ ###########
+######################
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+*.patch
+
+# Gradle #############
+######################
+.gradle/
+build/
+
+# Mac ################
+######################
+.DS_Store
+
+# Windows ############
+######################
+Thumbs.db
+ehthumbs.db
